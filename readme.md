@@ -1,4 +1,4 @@
-gitfit Homebrew Tap
+Gitfit Homebrew Tap
 -------------------
 
 [![CircleCI](https://circleci.com/gh/cjpatoilo/homebrew-gitfit.svg?style=svg)](https://circleci.com/gh/cjpatoilo/homebrew-gitfit)
