@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+set -ex
+
+brew update
+brew install Formula/gitfit.rb
+gitfit version
+gitfit help
